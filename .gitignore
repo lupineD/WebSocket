@@ -1,6 +1,5 @@
 ### IntelliJ IDEA ###
 .vs/
-bin/
 obj/
 build/
 out/
